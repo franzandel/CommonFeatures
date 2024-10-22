@@ -10,4 +10,4 @@ Repositories :
 
 Branches :
 1. [switch-dependency-v2](https://github.com/franzandel/CommonFeatures/tree/switch-dependency-v2) - use Design Library v2
-2. [main](https://github.com/franzandel/CommonFeatures/tree/main) - Final solution
+2. [main](https://github.com/franzandel/CommonFeatures/tree/main) - Final solution (use Design Library v1)
