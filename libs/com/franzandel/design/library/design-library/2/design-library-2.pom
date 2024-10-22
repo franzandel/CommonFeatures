@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.franzandel.design.library</groupId>
   <artifactId>design-library</artifactId>
-  <version>1</version>
+  <version>2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
